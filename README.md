@@ -30,5 +30,6 @@ Proficient in leveraging data-driven insights to enhance business strategies. Se
 *Bachelor's Degree in Computer Science*
 **Certifications:**
 - Data Science | University of the Punjab | Pakistan
+- 
 **Languages:**
 - English (Fluent)
