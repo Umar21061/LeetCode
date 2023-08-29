@@ -5,12 +5,9 @@ Email: umerc21061@gmail.com
 Phone: 923114648875
 whatsapp : 923034648875
 LinkedIn: https://www.linkedin.com/in/umar-murtaza-b92849282/
-
-**Summary:**
 Experienced Python Developer and Data Analyst with a strong background in data scraping, analysis, and a passion for data science.
 Currently contributing my skills at Company Nowestore as a Data Scraper, utilizing Python libraries to gather and process data.
 Proficient in leveraging data-driven insights to enhance business strategies. Seeking opportunities to further develop my career in data science.
-**Professional Experience:**
 **Data Scraper**
 *Company Nowestore |- Present*
 - Collaborate with cross-functional teams to extract and parse relevant data using Python scripts.
